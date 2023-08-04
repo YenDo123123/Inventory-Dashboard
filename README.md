@@ -22,6 +22,13 @@ The business request for this data analyst project was an inventory dashboard fo
 <img width="596" alt="image" src="https://github.com/YenDo123123/Inventory-Dashboard/assets/140786495/c02d8dc9-0154-49b2-8680-18df7af627a8">
 
 ## **Analysis**
+Below are the characteristics of each group in ABC XYZ Analysis:
 <img width="596" alt="image" src="https://github.com/YenDo123123/Inventory-Dashboard/assets/140786495/98969a95-5844-4702-888d-bbe5812f9cd2">
+
+Inventory policies should be applied to each group. Inventory policies may include:
+- Degree of automation and timing of replenishment processes (red text).
+- Mutually agreed upon inventory parameters for ABC items (blue text).
+- Inventory control, such as cycle counting frequencies (green text).
+<img width="596" alt="image" src="https://github.com/YenDo123123/Inventory-Dashboard/assets/140786495/fcc5b7bd-dd29-400b-b010-61324d346266">
 
 
