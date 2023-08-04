@@ -18,6 +18,10 @@ The business request for this data analyst project was an inventory dashboard fo
   - Showing the information in the dashboard selectively with a Filter pane.
   - Data Visualization with proper charts.
  
- ##  **The Inventory Power BI Dashboard**
+##  **The Inventory Power BI Dashboard**
 <img width="596" alt="image" src="https://github.com/YenDo123123/Inventory-Dashboard/assets/140786495/c02d8dc9-0154-49b2-8680-18df7af627a8">
+
 ## **Analysis**
+<img width="596" alt="image" src="https://github.com/YenDo123123/Inventory-Dashboard/assets/140786495/98969a95-5844-4702-888d-bbe5812f9cd2">
+
+
